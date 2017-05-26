@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1495834048 source:c:\users\gparedes\desktop\trimestre 3\tarea 2 prog2lab\helpers..cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"header.h"
+	"Estudio.h"
+
+1495833008 c:\users\gparedes\desktop\trimestre 3\tarea 2 prog2lab\header.h
+
+1495834269 source:c:\users\gparedes\desktop\trimestre 3\tarea 2 prog2lab\main.cpp
+	<stdio.h>
+	<iostream>
+	<tchar.h>
+	<windows.h>
+	"header.h"
+	"Estudio.h"
+
+1495834187 c:\users\gparedes\desktop\trimestre 3\tarea 2 prog2lab\include\estudio.h
+
+1495834139 source:c:\users\gparedes\desktop\trimestre 3\tarea 2 prog2lab\src\estudio.cpp
+	"Estudio.h"
+
+1495834048 source:c:\users\gparedes\desktop\trimestre 3\tarea 2 prog2lab\helpers.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"header.h"
+	"Estudio.h"
+
